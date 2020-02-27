@@ -6,7 +6,7 @@ Some common questions that software developers should prepare
 
 These questions used for most of developers from general concept of programming, testing and os architect
 
-### 1.1 General programming
+### 1.1 [General programming](./common/general/README.md)
 
 You might be asked about :
 
@@ -22,7 +22,7 @@ You might be asked about :
 * How to make your code better
 * How to different senior vs junior developer
 
-### 1.2 Concurrency programing
+### 1.2 [Concurrency programing](./common/concurrent/README.md)
 
 * Why is testing multithreaded/concurrent code so difficult?
 * Multithreading vs Multiprocessing
@@ -31,19 +31,19 @@ You might be asked about :
 * What is process starvation? If you need, let's review its definition.
 * What is a wait free algorithm?
 
-### 1.3 Code versioning
+### 1.3 [Code versioning](./common/versioning/README.md)
 
 * What's a rebase
 * How to modify commit that had been pushed
 * What’s is cherry pick
 
-### 1.2 Testing
+### 1.2 [Testing](./common/testing/README.md)
 
 * Why test
 * Kind of Test
 * Mocking
 
-### 1.3 Network
+### 1.3 [Network](./common/network/README.md)
 
 * OSI Model
 * TCP VS UDP
@@ -54,7 +54,7 @@ You might be asked about :
 * FPT vs SCP
 * VPN
 
-### 1.4 OS Concept (Optional)
+### 1.4 [OS Concept](./common/os/README.md) (Optional)
 
 * CPU core vs CPU Threads
 * CPU vs GPU
@@ -69,11 +69,11 @@ You might be asked about :
 
 Array, Linked List, Hashtable, Binary Tree
 
-## 2.2 [Algorithms](./algorithms/README.md)
+### 2.2 [Algorithms](./algorithms/README.md)
 
 * Complexity, Time complexity CPU complexity
 
-## 2.3 Path Finding Algorithms
+### 2.3 Path Finding Algorithms
 
 * Dijkstra
 * A star
