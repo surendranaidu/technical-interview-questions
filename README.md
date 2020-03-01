@@ -49,7 +49,7 @@ You might be asked about :
 * Arm vs x86
 * RISC vs CISC
 
-## Data structure
+## 2. Data structure and Algorithms
 
 Array, Linked List, Hashtable, Binary Tree
 
