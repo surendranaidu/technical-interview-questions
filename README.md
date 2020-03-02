@@ -78,7 +78,30 @@ Array, Linked List, Hashtable, Binary Tree
 * Dijkstra
 * A star
 
-## 3. [Code Design](design/README.md)
+## 3. [Code Practices](code_practices/README.md)
+
+Choose any language then implement some programs like this
+
+* Write a program to execute the Bubble sort algorithm.
+* Write a program to produce Star triangle.
+* Write a program to produce Fibonacci series.
+* Write a program to check if a number is prime.
+* Write a program to check if a sequence is a Palindrome.
+* Write a one-liner that will count the number of capital letters in a file. Your code should work even if the file is too big to fit in memory.
+* Write a sorting algorithm for a numerical dataset
+* Looking at the below code, write down the final values of A0, A1, …An.
+
+```python
+A0 = dict(zip(('a','b','c','d','e'),(1,2,3,4,5)))
+A1 = range(10)A2 = sorted([i for i in A1 if i in A0])
+A3 = sorted([A0[s] for s in A0])
+A4 = [i for i in A1 if i in A3]
+A5 = {i:i*i for i in A1}
+A6 = [[i,i*i] for i in A1]
+print(A0,A1,A2,A3,A4,A5,A6)
+```
+
+## 4. [Code Design](design/README.md)
 
 * Design Pattern: Creational, Behavior, Structural
 * Tell me about Inversion of Control and how it improves the design of code.
