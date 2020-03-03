@@ -40,7 +40,7 @@ You might be asked about :
 ### 1.2 [Testing](./common/testing/README.md)
 
 * Why test
-* Kind of Test
+* Kinds of Test
 * Mocking
 
 ### 1.3 [Network](./common/network/README.md)
