@@ -56,6 +56,7 @@ You might be asked about :
 
 ### 1.4 [OS Concept](./common/os/README.md) (Optional)
 
+* (non)-volatile memory
 * CPU core vs CPU Threads
 * CPU vs GPU
 * Linux distributions, core
