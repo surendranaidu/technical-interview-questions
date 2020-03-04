@@ -1,6 +1,4 @@
-# Interview Questions
-
-Some common questions that software developers should prepare
+# Technical Interview Questions
 
 ## 1. Common
 
