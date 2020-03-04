@@ -46,9 +46,11 @@ You might be asked about :
 
 ### 2.2 [Algorithms](./algorithms/README.md)
 
-### 2.3 Path Finding Algorithms
+#### 2.2.1 Sort Algorithms
 
-## 3. [Code Practices](code_practices/README.md)
+#### 2.2.2 Path Finding Algorithms
+
+### 2.3 [Code Practices](code_practices/README.md)
 
 Choose any language then implement some programs like this
 
@@ -71,26 +73,26 @@ A6 = [[i,i*i] for i in A1]
 print(A0,A1,A2,A3,A4,A5,A6)
 ```
 
-## 4. [Code Design](design/README.md)
+## 3. [Code Design](design/README.md)
 
-## 5. Programming Language
+## 4. Programming Language
 
-### 5.1 [C++](./languages/c++/README.md)
+### 4.1 [C++](./languages/c++/README.md)
 
-### 5.2 [Python](./languages/python/README.md)
+### 4.2 [Python](./languages/python/README.md)
 
-### 5.3 [Javascript](./languages/javascript/README.md)
+### 4.3 [Javascript](./languages/javascript/README.md)
 
-### 5.4 [TypeScript](./languages/typescript/README.md)
+### 4.4 [TypeScript](./languages/typescript/README.md)
 
-## 6. [Backend Developer](./backend/README.md)
+## 5. [Backend Developer](./backend/README.md)
 
-## 7. [Frontend Developer](./frontend/README.md)
+## 6. [Frontend Developer](./frontend/README.md)
 
-## 9. [Mobile Developer](./mobile/README.md)
+## 7. [Mobile Developer](./mobile/README.md)
 
-## 10. [Devops Developer](./devops/README.md)
+## 8. [Devops Developer](./devops/README.md)
 
-## 11. [Software Architect](./architect/README.md)
+## 9. [Software Architect](./architect/README.md)
 
 **Note** This is in development. I appreciate your contribution. Pull requests are welcome :heart_eyes:
