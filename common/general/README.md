@@ -1,4 +1,4 @@
-# General Programing Interview questions 
+# General Programing Interview questions
 
 * **What is a programming language ? How many kinds of programming languages ?**
 
@@ -48,14 +48,53 @@ Variables allocated on the stack are stored directly to the memory and access to
 
 Variables allocated on the heap have their memory allocated at run time and accessing this memory is a bit slower, but the heap size is only limited by the size of virtual memory . Element of the heap have no dependencies with each other and can always be accessed randomly at any time. You can allocate a block at any time and free it at any time. This makes it much more complex to keep track of which parts of the heap are allocated or free at any given time.
 
+**Heap Fragmentation** an inefficient utilization of the RAM that prevents a program from using the full capacity of memory. It leads to some consequences:
+    
+*Unreliable program*: you have a lot of free memory, but you can only allocate small blocks. If your program needs a bigger block, it will not get it and will stop working.
+
+*Degraded performance*: A highly fragmented heap is slower because the memory allocator takes more time to find the best hole, the so-called “best-fit.”
+
+*Solution*:
+
+    - Virtual memory
+    - Optimized allocators
+    - Heap compacting
+    - Memory pool
+
 * [Garbage Collection](https://guide.freecodecamp.org/computer-science/garbage-collection/)
 * **List some general concepts of programming languages**
 
-
+    - Variables, constants, and Datatypes
+    - Functions and Procedures
+    - Conditions and Loops
+    - Object-Oriented Programming and Functional Programming
 
 * Passing arguments as value or reference, and different
-* OOP and its characteristics with example
-* OODA and example
-* Package, Module, Components, Library, Framework, Platform
+
+1. Passing by Value
+
+When you use this passing mechanism, Function copies the value of the underlying programming element into a local variable in the Function. The Function code does not have any access to the underlying element in the calling code. You can not modify value of variable
+
+2. Passing by Reference
+
+When you use this passing mechanism, Function is giveen  a direct reference to the underlying programming element in the calling code. You can modify value of variable
+
+* [OOP and OODA](https://duonghieumai.github.io/2018-01-01-oop-and-ooda/)
+
+* [Package, Module, Components, Library, Framework, Platform](https://duonghieumai.github.io/2018-01-01-get-lost-with-it-dictionary/)
+
 * How to make your code better
+
+    - Follow code standard, codind convetion
+    - Refactor
+    - Use meaningful names and structure
+    - Use code documents
+    - Use Automated Build Tools
+    - And Test it
+
 * How to different senior vs junior developer
+
+    - See further
+    - Think wider
+    - Dive deeper
+    - And Work harder :satisfied:
