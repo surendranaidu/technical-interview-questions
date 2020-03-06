@@ -94,3 +94,11 @@ print(A0,A1,A2,A3,A4,A5,A6)
 ## 9. [Software Architect](./architect/README.md)
 
 **Note** This is in development. I appreciate your contribution. Pull requests are welcome :heart_eyes:
+
+**Other guides**:
+- https://yangshun.github.io/tech-interview-handbook/behavioral-questions/
+- https://github.com/kdn251/interviews#algorithms
+- https://github.com/MaximAbramchuck/awesome-interview-questions
+- https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
+- https://github.com/h5bp/Front-end-Developer-Interview-Questions
+- https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
